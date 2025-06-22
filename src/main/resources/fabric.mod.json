@@ -38,7 +38,7 @@
   "mixins": [
     "autofish.mixins.json"
   ],
-
+  "accessWidener":"autofish.accesswidener",
   "depends": {
     "fabric": "*",
     "cloth-config": "*"
